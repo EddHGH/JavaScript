@@ -8,7 +8,7 @@
 // }
 
 // Exemplo prático com FATORIAL 
-
+console.clear()
 let fatorial = 1
 let cont = 5
     while( cont >=1){
